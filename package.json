@@ -1,0 +1,15 @@
+{
+  "name": "ttlocalrestlogger",
+  "version": "1.0.0",
+  "description": "A local RESTful web server to receive log text, and write it to log file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ToroLiu <aecho1028@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
